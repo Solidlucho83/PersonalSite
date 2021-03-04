@@ -10,6 +10,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 
 
 
+
 function App() {
 
  
@@ -21,7 +22,7 @@ function App() {
      <Header />
     
   
-     <div class="Container mt-5 m-5">
+     <div class="Container m-5">
      <switch>
       <Route path="/contacto"><Contacto /></Route>  
       <Route path="/videojuegos"><Videojuegos /></Route> 

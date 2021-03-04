@@ -29,7 +29,7 @@ const Inicio = () => {
                 </ul>
  
                 <div class="col-sm-3">
-            <p><b><i>Mis Skills</i></b></p>
+            <p><b><i>Skills</i></b></p>
             <ul>
                 <li>#PHP.</li>
                 <li>#C#.</li>
