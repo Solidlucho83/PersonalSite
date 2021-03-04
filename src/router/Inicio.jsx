@@ -13,7 +13,7 @@ const Inicio = () => {
     return (
         <div class="row">
         <div class="col-sm-6">
-            <h3>Hola Mundo !!!</h3>
+        <h3 class="animate__animated animate__pulse">Hola Mundo!!!</h3>
             <hr/>
             <p>Mi nombre es LUIS CASTAÑEIRA</p>
             <p>Soy Desarrollador multiplataforma, con experiencia en el desarrollo Web, Videojuegos y Aplicaciones Mobile. </p>
