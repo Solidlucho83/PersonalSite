@@ -14,9 +14,7 @@ const Header = () => {
     </button>
     
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-      <div class="navbar-nav  mx-4">
-        
-        
+      <div class="navbar-nav mx-4">      
       
         <a class="nav-link active" aria-current="page" href="/videojuegos"> VIDEOJUEGOS</a>
         <a class="nav-link active" aria-current="page" href="/aplicaciones"> APP's </a>
