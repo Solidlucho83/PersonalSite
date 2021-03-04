@@ -8,7 +8,7 @@ const card = [
         id: 1,
         image: Image2,
         title: 'LordQuest',
-        descripcion : "A Dragon has invaded the Island where you live, enter the caves, destroy enemies,reach the Dragon.",
+        descripcion : "Juegos RogueLite Pixel art Estilo retro, inspirado en el clasico Zelda de Snes.",
         link : 'https://shorturl.at/lFJ27' 
     },
     {
