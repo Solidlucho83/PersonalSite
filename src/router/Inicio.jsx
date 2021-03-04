@@ -32,13 +32,14 @@ const Inicio = () => {
             <p><b><i>Skills</i></b></p>
             <ul>
                 <li>#PHP.</li>
+                <li>#Kotlin.</li>
                 <li>#C#.</li>
                 <li>#JavaScript.</li>
                 <li>#Python.</li>
                 <li>#NodeJs.</li>
                 <li>SQL,MONGODB,Firebase.</li>    </ul>
                 <p><b><i>FrameWorks:</i></b></p>
-                <ul><li>#Laravel.</li><li>#ReactJs.</li><li>#Unity.</li><li>#Android Studio.</li></ul>
+                <ul><li>#Laravel.</li><li>#ReactJs, #VueJs, #ExpressJs.</li><li>#Unity.</li><li>#Android Studio.</li></ul>
                 </div>
             </div>
             <div name="fotoperfil" class="col-sm-1"></div>
