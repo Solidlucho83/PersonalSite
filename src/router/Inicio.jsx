@@ -28,7 +28,7 @@ const Inicio = () => {
                 <li>#Desarrollo de Videojuegos con Unity.</li>
                 </ul>
  
-                <div class="col-sm-3">
+                <div class="col-sm-6">
             <p><b><i>Skills</i></b></p>
             <ul>
                 <li>#PHP.</li>
@@ -37,7 +37,10 @@ const Inicio = () => {
                 <li>#JavaScript.</li>
                 <li>#Python.</li>
                 <li>#NodeJs.</li>
-                <li>SQL,MONGODB,Firebase.</li>    </ul>
+                <li>SQL,MONGODB,Firebase.</li>  
+                <li>Ethical Hacking / Ciberseguridad.</li>
+                <li>Asesoramiento en Criptomonedas.</li>
+                  </ul>
                 <p><b><i>FrameWorks:</i></b></p>
                 <ul><li>#Laravel.</li><li>#ReactJs, #VueJs, #ExpressJs.</li><li>#Unity.</li><li>#Android Studio.</li></ul>
                 </div>
