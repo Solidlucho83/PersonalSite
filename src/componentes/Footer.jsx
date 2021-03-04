@@ -3,12 +3,12 @@ import React from 'react'
 const Footer = () => {
     return (
       
-      <div>
-        <hr />
+      
       <footer class="blog-footer">   
-      <p><b>Create By 2021</b></p>
+      <hr />
+      <p><b>© 2021 LCDEV by Luis Castañeira V1. Desarrollo de Aplicaciones Multiplataformas. Santa Fe Argentina</b></p>
       </footer>
-      </div>
+     
     )
 }
 

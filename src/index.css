@@ -1,6 +1,23 @@
-body footer{
+body  footer{
   text-align: center;
+
+
   }
+h3{
+  color: green;
+}
+i{
+  color: red;
+}
+
+
+footer #blog-footer {
+  text-align: center;
+  background-color: #646464;
+
+  
+}
+
 div {
   font-size: 12px;
   font-family: 'Roboto Mono', monospace;
