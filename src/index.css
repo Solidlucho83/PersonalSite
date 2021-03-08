@@ -14,7 +14,9 @@ i{
 
 footer #blog-footer {
   text-align: center;
-  background-color: #646464;
+  background-color: hsl(185, 14%, 91%);
+    
+  zoom : 85%;
 
   
 }

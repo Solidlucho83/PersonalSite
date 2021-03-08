@@ -6,7 +6,7 @@ const Card = ({title, imageSource, descripcion, link } ) => {
     return (
         
           <div className="card text-center ">              
-          <img src={imageSource} alt={title} height="130" ></img>
+          <img src={imageSource} alt={title}  ></img>
               <div className="cardbody justify-content-center"><br/>
               
          <h4 className="card-title">{title}</h4>

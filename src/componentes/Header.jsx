@@ -16,7 +16,7 @@ const Header = () => {
       <div class="navbar-nav mx-4">     
         <a class="nav-link active" aria-current="page" href="/videojuegos"> VIDEOJUEGOS</a>
         <a class="nav-link active" aria-current="page" href="/aplicaciones"> APP's </a>
-        <a class="nav-link disable" aria-current="page" href="#"> PROYECTOS WEB</a>
+        <a class="nav-link active" aria-current="page" href="/proyectosweb"> PROYECTOS WEB</a>
         <a class="nav-link disable" aria-current="page"  href="#"> CONTACTO </a>        
       </div>
     </div>
