@@ -1,5 +1,6 @@
 import React from 'react'
 import Webs from '../componentes/Webs'
+import Imageweb from '../img/logoweb.png'
 
 const Proyectosweb = () => {
 
@@ -9,7 +10,7 @@ const Proyectosweb = () => {
 
     return (
         <div class="Container m-5 text-center">
-        <h1 class="animate__animated animate__pulse">PROYECTOS WEB</h1>
+        <h1 class="animate__animated animate__pulse">Proyectos Web <img src={Imageweb} height="32" wight="32" /></h1>
         <hr/>
               <div className="text-center"> 
              
